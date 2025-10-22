@@ -1,7 +1,6 @@
 nginx
-N8N-IO/N8N
+n8n-i0/n8n
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+
